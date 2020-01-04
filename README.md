@@ -1,4 +1,4 @@
-# CameraWebServer Example for ESP32-CAM in Arduino IDE -  just simple control for the LED on the web page
+# CameraWebServer Example for ESP32-CAM in Arduino IDE -  added simple control for the LED
 
 Project instructions: https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
 
