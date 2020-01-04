@@ -2,6 +2,9 @@
 
 ![screenshot](Screenshot_2020-01-04%20ESP32%20OV2460.png)
 
+To do:
+ -  slider control
+
 Project instructions: https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
 
 Where to get an ESP32-CAM: https://makeradvisor.com/tools/esp32-cam/
